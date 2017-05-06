@@ -12,9 +12,9 @@ This repository is created to collaborate with others for adding extra infomatio
 Source of Swete's text: supplied by Pasquale Amicarelli, prevously copmiled by Pasquale Amicarelli as a bibleworks module
 
 Public domain source:
-Vol I https://archive.org/details/theoldtestamenti00unknuoft
-Vol II https://archive.org/details/oldtestamenting02swet
-Vol III https://archive.org/details/oldtestgreek00unknuoft
+<br />Vol I https://archive.org/details/theoldtestamenti00unknuoft
+<br />Vol II https://archive.org/details/oldtestamenting02swet
+<br />Vol III https://archive.org/details/oldtestgreek00unknuoft
 
 THE OLD TESTAMENT
 
