@@ -1,4 +1,4 @@
-# LXX-Swete-1930
+# LXX-Swete-1930 [<a href="https://biblebento.com/" target="_blank">BibleBento.com</a>]
 Septuagint database based on Swete's text (1909-1930)
 
 This repository is created to collaborate with others for adding extra infomation based on the text of Swete LXX:
